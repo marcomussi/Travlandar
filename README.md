@@ -93,15 +93,12 @@ The files about **Client Testing** can be found in
 
 Developer references
 ==========
-
-#### Client:
-Moskwa Lukasz
-> lukasz.moskwa@mail.polimi.it
-#### Server:
-Oliva GianLuigi     
-> gianluigi.oliva@mail.polimi.it
-#### Testing:
-Mussi Marco
+#### Mussi Marco:
 > marco.mussi@mail.polimi.it
+#### Oliva GianLuigi:  
+> gianluigi.oliva@mail.polimi.it
+#### Moskwa Lukasz:
+> lukasz.moskwa@mail.polimi.it
+
 
 
